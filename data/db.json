@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "Opening Party!",
+      "body": "why do we use it?\nIt is a long established fast that a reader",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "Financial Years",
+      "body": "why do we use it?\nIt is a long established fast that a reader",
+      "author": "mario",
+      "id": 3
+    },
+    {
+      "title": "Puja",
+      "body": "Tomorrow is puja",
+      "author": "yoshi",
+      "id": 6
+    },
+    {
+      "title": "Prasad",
+      "body": "lorem*50\n",
+      "author": "mario",
+      "id": 7
+    },
+    {
+      "title": "React Course",
+      "body": "BOdy is a part of human parts and parts",
+      "author": "mario",
+      "id": 8
+    }
+  ]
+}
